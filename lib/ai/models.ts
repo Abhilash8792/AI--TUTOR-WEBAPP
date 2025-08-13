@@ -21,7 +21,7 @@ export const DEFAULT_CHAT_MODEL: string = "chat-model-tutor";
 export const myProvider = customProvider({
 	languageModels: {
 		"chat-model-tutor": openai(
-			"ft:gpt-4o-2024-08-06:spraggins-designs:ai-tutor-studybuddy-finetunemodel:AzoFqhh5"
+     "gpt-4o-mini"
 		)
 	}
 });
