@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Study Buddy for Kids 🎓
 
 <p align="center">
@@ -103,3 +104,7 @@ We welcome contributions that help make learning more engaging and effective for
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+=======
+# AI--TUTOR-WEBAPP
+AI Tutor is an intelligent, interactive web application designed to make learning easier and more personalized. Using advanced AI models, it provides instant explanations, practice questions, and interactive quizzes for a variety of subjects. Students can chat with the AI tutor, get step-by-step solutions, and track their progress in real time.
+>>>>>>> 9a9e39b60c83ec826944827457e0c7d00f569903
